@@ -1,0 +1,55 @@
+firstName:Mike
+middleName:L
+lastName:Clark
+suffix:Jr
+ailment:broken nose
+ailment:excessive bleeding
+doctor:Suess
+treated:0
+priority:1
+
+firstName:Amy
+middleName:N
+lastName:Clark
+suffix:
+ailment:severe cough
+doctor:Pepper
+treated:1
+priority:1
+
+firstName:Daniel
+middleName:Lee
+lastName:Clark
+suffix:
+ailment:whiny
+doctor:House
+treated:0
+priority:901
+
+firstName:Mike
+middleName:L
+lastName:Clark
+suffix:Jr
+ailment:broken nose
+ailment:excessive bleeding
+doctor:Suess
+treated:0
+priority:1085
+
+firstName:Amy
+middleName:N
+lastName:Clark
+suffix:
+ailment:severe cough
+doctor:Pepper
+treated:1
+priority:15
+
+firstName:Daniel
+middleName:Lee
+lastName:Clark
+suffix:
+ailment:whiny
+doctor:House
+treated:0
+priority:90
